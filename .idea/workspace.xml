@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d73c6ff-cb0e-483f-957e-3ac6d22b83ef" name="Changes" comment="Premier test reussi" />
+    <list default="true" id="6d73c6ff-cb0e-483f-957e-3ac6d22b83ef" name="Changes" comment="Premier test reussi 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +51,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687803558059</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Premier test reussi 1">
+      <created>1687805078006</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687805078007</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,6 +74,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Premier test reussi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Premier test reussi" />
+    <MESSAGE value="Premier test reussi 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Premier test reussi 1" />
   </component>
 </project>
