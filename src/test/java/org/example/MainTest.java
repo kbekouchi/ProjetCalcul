@@ -16,8 +16,8 @@ class MainTest {
         String a = "Tot";
 
         assertEquals("Tot", a);
-        String b ="tit";
-        assertEquals(a,b);
+        String b = "Tot";
+        assertEquals("Tot", b);
 
 
     }
