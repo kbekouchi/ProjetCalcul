@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d73c6ff-cb0e-483f-957e-3ac6d22b83ef" name="Changes" comment="Modification Test Unitaire Junit">
+    <list default="true" id="6d73c6ff-cb0e-483f-957e-3ac6d22b83ef" name="Changes" comment="Rajout Tst B Test Unitaire Junit">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Jenkinsfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/MainTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688491771630</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Rajout Tst B Test Unitaire Junit">
+      <created>1688493445202</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1688493445203</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -237,6 +244,7 @@
     <MESSAGE value="Changement de version du compilateur maven" />
     <MESSAGE value="Test Unitaire Junit" />
     <MESSAGE value="Modification Test Unitaire Junit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modification Test Unitaire Junit" />
+    <MESSAGE value="Rajout Tst B Test Unitaire Junit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rajout Tst B Test Unitaire Junit" />
   </component>
 </project>
