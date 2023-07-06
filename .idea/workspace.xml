@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d73c6ff-cb0e-483f-957e-3ac6d22b83ef" name="Changes" comment="Rajout Tst B Test Unitaire Junit">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Jenkinsfile" afterDir="false" />
+    <list default="true" id="6d73c6ff-cb0e-483f-957e-3ac6d22b83ef" name="Changes" comment="Déplacement d'un fichier Jenkinsfile">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,9 @@
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Dev\Projets\Workspace\TestProjet" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="org.example" />
@@ -181,7 +184,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688493445203</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Rajout d'un fichier Jenkinsfile">
+      <created>1688663180552</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1688663180552</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Déplacement d'un fichier Jenkinsfile">
+      <created>1688663355191</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1688663355191</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -245,6 +262,8 @@
     <MESSAGE value="Test Unitaire Junit" />
     <MESSAGE value="Modification Test Unitaire Junit" />
     <MESSAGE value="Rajout Tst B Test Unitaire Junit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rajout Tst B Test Unitaire Junit" />
+    <MESSAGE value="Rajout d'un fichier Jenkinsfile" />
+    <MESSAGE value="Déplacement d'un fichier Jenkinsfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Déplacement d'un fichier Jenkinsfile" />
   </component>
 </project>
